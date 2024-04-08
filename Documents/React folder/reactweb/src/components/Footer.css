@@ -1,0 +1,118 @@
+footer{  
+    top:150%;
+    width: 100%;
+    height: 252px;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+  }
+  #main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 7px;
+  }
+  #social{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 15px;
+  }
+  #abt11{
+    color: #050404;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+  }
+  #abt12{
+    color: #e5873a;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+  }
+  #abt13{
+    color: #050404;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+  }
+  #abt2{
+    top: 25%;
+    height: 43px;
+    width: 43px;
+    display: block;
+    border: 1px solid black;
+    border-radius: 15%;
+    background-color:white;
+    padding: 5px;
+    transition: all 0.1s ease;
+    filter: invert();
+  }
+  #abt2:hover{
+    transform: scale(1.3);
+    background-color:#fd9900;
+  }
+  #abt3{
+    top: 25%;
+    height: 43px;
+    width: 43px;
+    display: block;
+    border: 1px solid black;
+    border-radius: 15%;
+    background-color:white;
+    padding: 5px;
+    transition: all 0.1s ease;
+    filter: invert();
+  }
+  #abt3:hover{
+    transform: scale(1.3);
+    background: linear-gradient(45deg, #0f6bcc 0%,#1997c3 25%,#23d8bc 50%,#33dc99 75%,#43e777 100%);
+  }
+  #abt4{
+    top: 25%;
+    height: 43px;
+    width: 43px;
+    display: block;
+    border: 1px solid black;
+    border-radius: 15%;
+    background-color:white;
+    padding: 5px;
+    transition: all 0.1s ease;
+    filter: invert();
+  }
+  #abt4:hover{
+      transform: scale(1.3);
+      background-color:#ff8043;
+  }
+  #abt5{
+    top: 25%;
+    height: 43px;
+    width: 43px;
+    display: block;
+    border: 1px solid black;
+    border-radius: 15%;
+    background-color:white;
+    padding: 5px;
+    transition: all 0.1s ease;
+    filter: invert();
+  }
+  #abt5:hover{
+      transform: scale(1.3);
+      background-color:#bcb5ab;
+  }
+  #abt6{
+    color: #050404;
+    font-size: 15px;
+    text-align: center;
+    padding-top: 10px;
+  }
+  #abt7{
+    color: #050404;
+    font-size: 15px;
+    text-align: center;
+  }

@@ -1,0 +1,19 @@
+body {
+  background-color: #ced8e3;
+  display: flex;
+  flex-direction: column;
+}
+#page{
+  margin: 0px;
+  padding: 0px;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  display: block;
+}
+
+
